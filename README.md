@@ -1,2 +1,2 @@
 # Draw-Battle
- Just useless demo of drawing game i didn't finish yet
+ Just drawing game demo that isn't finished yet.
